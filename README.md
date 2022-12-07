@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dev Moha</h1>
 <h3 align="center">A passionate frontend developer from Somalia</h3>
 
-- 🔭 im currently working on **React projects**
+- 🔭 im currently working on **CMS Project**
 
-- 🌱 I’m currently learning **React-js**
+- 🌱 I’m currently learning **React-js && Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dev-Moa](https://github.com/Dev-Moa)
 
