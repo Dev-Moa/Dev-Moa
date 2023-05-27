@@ -3,11 +3,11 @@
 
 - 🔭 im currently working on **CMS Project**
 
-- 🌱 I’m currently learning **React-js && Django**
+- 🌱 I’m currently learning **Full stack Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dev-Moa](https://github.com/Dev-Moa)
 
-- 💬 Ask me about **react js**
+- 💬 Ask me about **django **
 
 - 📫 How to reach me **https://www.facebook.com/profile.php?id=100085252966518**
 
