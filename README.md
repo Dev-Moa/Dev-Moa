@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev Moha</h1>
-<h3 align="center">A  fullstack django developer from Somalia</h3>
+<h3 align="center"> FullStack Web Developer </h3>
 
 - 🔭 im currently working on **CMS Project**
 
