@@ -3,7 +3,7 @@
 
 - 🔭 im currently working on **CMS Project**
 
-- 🌱 I’m currently learning **Full stack Django**
+- 🌱 I’m currently Building  **Personal brand on youtube**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dev-Moa](https://github.com/Dev-Moa)
 
