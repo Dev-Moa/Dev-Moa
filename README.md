@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dev-Moa](https://github.com/Dev-Moa)
 
-- 💬 Ask me about **django **
+- 💬 Ask me about **Vue js + django **
 
 - 📫 How to reach me ****
 
