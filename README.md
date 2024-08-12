@@ -3,8 +3,6 @@
 
 - 🔭 I'm currently working at  **Dhambaal Advert** as Software Developer
 
-- 🌱 I’m currently Building  **Personal brand **
-
 - 👨‍💻 All of my projects are available at [https://github.com/Dev-Moa](https://github.com/Dev-Moa)
 
 - 💬 Ask me about **Nuxt 3 + Django Drf **
