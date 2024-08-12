@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dev Moha</h1>
 <h3 align="center"> FullStack Web Developer </h3>
 
-- 🔭 im currently working on **CMS Project**
+- 🔭 im currently working at  **Dhambaal Advert** as Software Developer
 
 - 🌱 I’m currently Building  **Personal brand **
 
