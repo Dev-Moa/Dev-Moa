@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dev Moha</h1>
 <h3 align="center"> FullStack Web Developer </h3>
 
-- 🔭 I'm currently working at  **Dhambaal Advert** as Software Developer
+- 🔭 I'm currently working at self employed  Software Developer
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dev-Moa](https://github.com/Dev-Moa)
 
