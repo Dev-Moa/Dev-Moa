@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dev-Moa](https://github.com/Dev-Moa)
 
-- 💬 Ask me about **Nuxt 3 + Django Drf **
+- 💬 Ask me about **MERN Stack **
 
 - 📫 How to reach me ****
 
